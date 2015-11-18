@@ -48,7 +48,7 @@ maintainers are too lazy to implement it, do it yourself.
 
 ---
 
-## Forking and Branches ##
+## Forking, Branches and Commits ##
 Since we can't just allow everybody committing to the main repo,
 if you want to make changes, please create a fork of the repo.
 In there, make your own branch. When it comes to branch formats,
@@ -60,6 +60,13 @@ use this standard:
 That way when you file a pull request we know exactly at first glance what the PR is.
 
 Please merge main project `master` into your fork often to make sure there are no merge issues. When you start working on an issue make sure you state that you are doing it, otherwise you might have others doing the same thing.
+
+When you are adding a commit of your change, it is better to have more smaller commits than large big one.
+Preferably a commit per file or commit per change. That way if something goes wrong,
+a single commit can be reverted without breaking much.
+Please do not speak in first person `"I added ___"` but rather `"Added ___"`.
+In commits also make sure you reference the file you have changed and its section.
+This allows to see the what files the commits changed without reading the files themselves
 
 ---
 
