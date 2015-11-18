@@ -1,4 +1,4 @@
-# Rebrick Website Frontend #
+# Redbrick Website Frontend #
 The frontend to Redbrick's website
 
 ---
@@ -18,5 +18,5 @@ If you find a bug, or want to suggest something use the build in Github's [Issue
 ## Communication ##
 The default communication channel is on Redbrick's IRC channel rbwebgroup.
 
-To do it while in your favourite IRC client type in 
+To do it while in your favourite IRC client type in
 `/j #rbwebgroup`
