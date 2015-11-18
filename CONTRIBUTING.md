@@ -33,7 +33,7 @@ In Issue:
                 Be precise, but don't write a novel
 
   Steps to reproduce: If you are filing an bug, list the steps necessary to replicate
-                      the bug using. ie:
+                      the bug using. eg:
                         1. Go to #/about
                         2. Click on `Home`
                         3. You get redirected to #/home instead of /
